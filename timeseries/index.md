@@ -1,6 +1,6 @@
 ---
 Title: TimeSeriesDecomposition
-description: Course Content
+description: Course Content: Timeseries Decompesition
 ---
 Here is a Time Series Decomposition in use in my CTBA course
 - [Time Series Decomposition (html)](TimeSeriesDecomposition-1.html)
