@@ -1,5 +1,6 @@
 ---
-layout: CWBA Home
+title: Home
+descrpition: CWBA Home
 ---
 
 
